@@ -1,0 +1,71 @@
+Processing Report - 20241111_005406
+==================================================
+
+Image: 000_Adriana-Lima-Ocean-Drive-Magazine-March-2017-Cover-Photoshoot05
+Faces detected: 0
+Face details:
+
+Image: 001_Cara-Delevingne
+Faces detected: 0
+Face details:
+
+Image: 002_Cindy-Crawford
+Faces detected: 3
+Face details:
+  Face 1:
+    Center: (151, 525)
+    Axes: (25, 14)
+    Angle: -47.29 degrees
+  Face 2:
+    Center: (185, 727)
+    Axes: (79, 49)
+    Angle: -8.31 degrees
+  Face 3:
+    Center: (317, 729)
+    Axes: (88, 60)
+    Angle: 16.69 degrees
+
+Image: 003_Gisele-Bundchen
+Faces detected: 2
+Face details:
+  Face 1:
+    Center: (34, 394)
+    Axes: (21, 10)
+    Angle: 9.65 degrees
+  Face 2:
+    Center: (264, 518)
+    Axes: (29, 12)
+    Angle: -74.91 degrees
+
+Image: 004_Iman
+Faces detected: 0
+Face details:
+
+Image: 005_Karla-Sanka
+Faces detected: 0
+Face details:
+
+Image: 006_Linda-Evangelista
+Faces detected: 0
+Face details:
+
+Image: 007_Naomi-campbell
+Faces detected: 0
+Face details:
+
+Image: 008_Tyra-banks-fab-magazine
+Faces detected: 1
+Face details:
+  Face 1:
+    Center: (405, 308)
+    Axes: (24, 15)
+    Angle: 4.53 degrees
+
+Image: 009_pexels-alipazani
+Faces detected: 1
+Face details:
+  Face 1:
+    Center: (402, 74)
+    Axes: (24, 7)
+    Angle: 52.52 degrees
+

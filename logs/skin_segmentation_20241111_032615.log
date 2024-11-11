@@ -1,0 +1,27 @@
+2024-11-11 03:26:15,669 - INFO - Starting skin segmentation process...
+2024-11-11 03:26:15,670 - INFO - Found 12 images to process
+2024-11-11 03:26:15,671 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:26:18,317 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:26:18,318 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:26:21,507 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:26:21,507 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:26:22,096 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:26:22,097 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:26:22,599 - INFO - Successfully processed images.jpg
+2024-11-11 03:26:22,599 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:26:23,279 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:26:23,279 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:26:23,758 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:26:23,759 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:26:24,508 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:26:24,508 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:26:25,202 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:26:25,202 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:26:34,906 - INFO - Successfully processed pexels-alipazani.jpg
+2024-11-11 03:26:34,906 - INFO - Processing image 10/12: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:26:35,829 - INFO - Successfully processed Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:26:35,829 - INFO - Processing image 11/12: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:26:36,770 - INFO - Successfully processed ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:26:36,770 - INFO - Processing image 12/12: image-asset.jpeg
+2024-11-11 03:26:48,323 - INFO - Successfully processed image-asset.jpeg
+2024-11-11 03:26:48,327 - INFO - Processing completed successfully

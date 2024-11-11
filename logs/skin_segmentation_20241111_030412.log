@@ -1,0 +1,63 @@
+2024-11-11 03:04:12,980 - INFO - Starting skin segmentation process...
+2024-11-11 03:04:12,982 - INFO - Found 12 images to process
+2024-11-11 03:04:12,982 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:04:12,982 - INFO - Processing image: Cara-Delevingne.jpg
+2024-11-11 03:04:15,177 - INFO - Found 9 potential regions
+2024-11-11 03:04:15,189 - INFO - Detected 0 face regions
+2024-11-11 03:04:16,492 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:04:16,493 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:04:16,493 - INFO - Processing image: CEOportrait_0101.jpg
+2024-11-11 03:04:28,903 - INFO - Found 14 potential regions
+2024-11-11 03:04:28,931 - INFO - Detected 0 face regions
+2024-11-11 03:04:29,994 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:04:29,994 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:04:29,995 - INFO - Processing image: fdsjbfyq2h331.jpg
+2024-11-11 03:04:30,079 - INFO - Found 2 potential regions
+2024-11-11 03:04:30,081 - INFO - Detected 0 face regions
+2024-11-11 03:04:30,607 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:04:30,607 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:04:30,607 - INFO - Processing image: images.jpg
+2024-11-11 03:04:30,618 - INFO - Found 1 potential regions
+2024-11-11 03:04:30,619 - INFO - Detected 0 face regions
+2024-11-11 03:04:31,084 - INFO - Successfully processed images.jpg
+2024-11-11 03:04:31,084 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:04:31,084 - INFO - Processing image: Iman.jpg
+2024-11-11 03:04:31,180 - INFO - Found 4 potential regions
+2024-11-11 03:04:31,185 - INFO - Detected 1 face regions
+2024-11-11 03:04:31,763 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:04:31,763 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:04:31,764 - INFO - Processing image: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:04:31,774 - INFO - Found 1 potential regions
+2024-11-11 03:04:31,778 - INFO - Detected 1 face regions
+2024-11-11 03:04:32,264 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:04:32,265 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:04:32,265 - INFO - Processing image: Karla-Sanka.jpg
+2024-11-11 03:04:32,372 - INFO - Found 2 potential regions
+2024-11-11 03:04:32,392 - INFO - Detected 1 face regions
+2024-11-11 03:04:33,117 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:04:33,118 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:04:33,118 - INFO - Processing image: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:04:33,229 - INFO - Found 3 potential regions
+2024-11-11 03:04:33,234 - INFO - Detected 0 face regions
+2024-11-11 03:04:33,806 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:04:33,806 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:04:33,807 - INFO - Processing image: pexels-alipazani.jpg
+2024-11-11 03:04:56,313 - INFO - Found 47 potential regions
+2024-11-11 03:04:56,392 - INFO - Detected 1 face regions
+2024-11-11 03:04:58,370 - INFO - Successfully processed pexels-alipazani.jpg
+2024-11-11 03:04:58,371 - INFO - Processing image 10/12: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:04:58,371 - INFO - Processing image: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:04:58,517 - INFO - Found 3 potential regions
+2024-11-11 03:04:58,526 - INFO - Detected 0 face regions
+2024-11-11 03:04:59,176 - INFO - Successfully processed Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:04:59,176 - INFO - Processing image 11/12: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:04:59,176 - INFO - Processing image: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:04:59,485 - INFO - Found 6 potential regions
+2024-11-11 03:04:59,525 - INFO - Detected 1 face regions
+2024-11-11 03:05:00,232 - INFO - Successfully processed ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:05:00,232 - INFO - Processing image 12/12: image-asset.jpeg
+2024-11-11 03:05:00,232 - INFO - Processing image: image-asset.jpeg
+2024-11-11 03:05:17,634 - INFO - Found 23 potential regions
+2024-11-11 03:05:17,689 - INFO - Detected 0 face regions
+2024-11-11 03:05:19,308 - INFO - Successfully processed image-asset.jpeg
+2024-11-11 03:05:19,312 - INFO - Processing completed successfully

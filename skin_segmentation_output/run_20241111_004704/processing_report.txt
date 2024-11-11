@@ -1,0 +1,67 @@
+Processing Report - 20241111_004704
+==================================================
+
+Image: image_000
+Faces detected: 0
+Face details:
+
+Image: image_001
+Faces detected: 0
+Face details:
+
+Image: image_002
+Faces detected: 0
+Face details:
+
+Image: image_003
+Faces detected: 0
+Face details:
+
+Image: image_004
+Faces detected: 0
+Face details:
+
+Image: image_005
+Faces detected: 0
+Face details:
+
+Image: image_006
+Faces detected: 2
+Face details:
+  Face 1:
+    Center: (437, 287)
+    Axes: (161, 118)
+    Angle: 56.18 degrees
+  Face 2:
+    Center: (416, 877)
+    Axes: (22, 21)
+    Angle: 73.24 degrees
+
+Image: image_007
+Faces detected: 0
+Face details:
+
+Image: image_008
+Faces detected: 0
+Face details:
+
+Image: image_009
+Faces detected: 4
+Face details:
+  Face 1:
+    Center: (1036, 128)
+    Axes: (53, 40)
+    Angle: 35.51 degrees
+  Face 2:
+    Center: (1346, 182)
+    Axes: (23, 16)
+    Angle: -71.32 degrees
+  Face 3:
+    Center: (709, 257)
+    Axes: (31, 24)
+    Angle: -11.23 degrees
+  Face 4:
+    Center: (1976, 869)
+    Axes: (35, 28)
+    Angle: 49.25 degrees
+

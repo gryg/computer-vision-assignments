@@ -1,0 +1,69 @@
+2024-11-11 03:07:48,270 - INFO - Starting skin segmentation process...
+2024-11-11 03:07:48,271 - INFO - Found 12 images to process
+2024-11-11 03:07:48,271 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:07:52,563 - INFO - Tone light quality score: 0.442
+2024-11-11 03:07:55,605 - INFO - Tone medium quality score: 0.444
+2024-11-11 03:07:57,995 - INFO - Tone dark quality score: 0.445
+2024-11-11 03:08:01,408 - INFO - Tone very_dark quality score: 0.451
+2024-11-11 03:08:07,842 - INFO - Tone shadow quality score: 0.465
+2024-11-11 03:08:07,842 - INFO - Selected tone: shadow with score 0.465
+2024-11-11 03:08:09,995 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:08:09,996 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:08:19,959 - INFO - Tone light quality score: 0.483
+2024-11-11 03:08:32,183 - INFO - Tone medium quality score: 0.471
+2024-11-11 03:08:45,832 - INFO - Tone dark quality score: 0.468
+2024-11-11 03:08:59,203 - INFO - Tone very_dark quality score: 0.470
+2024-11-11 03:09:16,599 - INFO - Tone shadow quality score: 0.485
+2024-11-11 03:09:16,599 - INFO - Selected tone: shadow with score 0.485
+2024-11-11 03:09:19,921 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:09:19,921 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:09:20,010 - INFO - Tone light quality score: 0.483
+2024-11-11 03:09:20,087 - INFO - Tone medium quality score: 0.463
+2024-11-11 03:09:20,167 - INFO - Tone dark quality score: 0.462
+2024-11-11 03:09:20,245 - INFO - Tone very_dark quality score: 0.467
+2024-11-11 03:09:20,342 - INFO - Tone shadow quality score: 0.468
+2024-11-11 03:09:20,342 - INFO - Selected tone: light with score 0.483
+2024-11-11 03:09:20,881 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:09:20,881 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:09:20,896 - INFO - Tone light quality score: 0.487
+2024-11-11 03:09:20,910 - INFO - Tone medium quality score: 0.496
+2024-11-11 03:09:20,925 - INFO - Tone dark quality score: 0.494
+2024-11-11 03:09:20,937 - INFO - Tone very_dark quality score: 0.495
+2024-11-11 03:09:20,955 - INFO - Tone shadow quality score: 0.481
+2024-11-11 03:09:20,956 - INFO - Selected tone: medium with score 0.496
+2024-11-11 03:09:21,436 - INFO - Successfully processed images.jpg
+2024-11-11 03:09:21,436 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:09:21,527 - INFO - Tone light quality score: 0.440
+2024-11-11 03:09:21,607 - INFO - Tone medium quality score: 0.448
+2024-11-11 03:09:21,773 - INFO - Tone dark quality score: 0.423
+2024-11-11 03:09:21,954 - INFO - Tone very_dark quality score: 0.470
+2024-11-11 03:09:22,150 - INFO - Tone shadow quality score: 0.524
+2024-11-11 03:09:22,151 - INFO - Selected tone: shadow with score 0.524
+2024-11-11 03:09:22,862 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:09:22,862 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:09:22,890 - INFO - Tone light quality score: 0.559
+2024-11-11 03:09:22,909 - INFO - Tone medium quality score: 0.490
+2024-11-11 03:09:22,925 - INFO - Tone dark quality score: 0.538
+2024-11-11 03:09:22,939 - INFO - Tone very_dark quality score: 0.544
+2024-11-11 03:09:22,962 - INFO - Tone shadow quality score: 0.542
+2024-11-11 03:09:22,962 - INFO - Selected tone: light with score 0.559
+2024-11-11 03:09:23,536 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:09:23,537 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:09:23,714 - INFO - Tone light quality score: 0.462
+2024-11-11 03:09:23,955 - INFO - Tone medium quality score: 0.510
+2024-11-11 03:09:24,128 - INFO - Tone dark quality score: 0.544
+2024-11-11 03:09:24,290 - INFO - Tone very_dark quality score: 0.544
+2024-11-11 03:09:24,457 - INFO - Tone shadow quality score: 0.427
+2024-11-11 03:09:24,458 - INFO - Selected tone: very_dark with score 0.544
+2024-11-11 03:09:25,217 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:09:25,217 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:09:25,429 - INFO - Tone light quality score: 0.466
+2024-11-11 03:09:25,628 - INFO - Tone medium quality score: 0.466
+2024-11-11 03:09:25,840 - INFO - Tone dark quality score: 0.467
+2024-11-11 03:09:26,078 - INFO - Tone very_dark quality score: 0.457
+2024-11-11 03:09:26,423 - INFO - Tone shadow quality score: 0.492
+2024-11-11 03:09:26,424 - INFO - Selected tone: shadow with score 0.492
+2024-11-11 03:09:27,257 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:09:27,258 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:10:12,047 - INFO - Tone light quality score: 0.498
+2024-11-11 03:10:51,610 - INFO - Tone medium quality score: 0.520

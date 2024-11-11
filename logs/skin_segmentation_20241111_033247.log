@@ -1,0 +1,39 @@
+2024-11-11 03:32:47,497 - INFO - Starting skin segmentation process...
+2024-11-11 03:32:47,498 - INFO - Found 12 images to process
+2024-11-11 03:32:47,498 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:32:48,658 - WARNING - No faces detected in image
+2024-11-11 03:32:49,824 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:32:49,825 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:32:51,951 - INFO - Face detected: area=900786.0, relative_area=0.322, aspect_ratio=1.37, eccentricity=0.68
+2024-11-11 03:32:53,046 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:32:53,046 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:32:53,132 - INFO - Face detected: area=115933.0, relative_area=0.272, aspect_ratio=1.37, eccentricity=0.78
+2024-11-11 03:32:53,641 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:32:53,641 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:32:53,657 - INFO - Face detected: area=34772.0, relative_area=0.691, aspect_ratio=1.50, eccentricity=0.67
+2024-11-11 03:32:54,116 - INFO - Successfully processed images.jpg
+2024-11-11 03:32:54,116 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:32:54,191 - WARNING - No faces detected in image
+2024-11-11 03:32:54,862 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:32:54,862 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:32:54,882 - WARNING - No faces detected in image
+2024-11-11 03:32:55,561 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:32:55,562 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:32:55,719 - WARNING - No faces detected in image
+2024-11-11 03:32:56,441 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:32:56,442 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:32:56,566 - WARNING - No faces detected in image
+2024-11-11 03:32:57,220 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:32:57,220 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:33:05,370 - WARNING - No faces detected in image
+2024-11-11 03:33:07,248 - INFO - Successfully processed pexels-alipazani.jpg
+2024-11-11 03:33:07,248 - INFO - Processing image 10/12: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:33:07,405 - WARNING - No faces detected in image
+2024-11-11 03:33:08,140 - INFO - Successfully processed Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:33:08,140 - INFO - Processing image 11/12: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:33:08,452 - INFO - Face detected: area=761861.0, relative_area=0.727, aspect_ratio=1.00, eccentricity=0.48
+2024-11-11 03:33:09,126 - INFO - Successfully processed ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:33:09,126 - INFO - Processing image 12/12: image-asset.jpeg
+2024-11-11 03:33:18,729 - WARNING - No faces detected in image
+2024-11-11 03:33:20,660 - INFO - Successfully processed image-asset.jpeg
+2024-11-11 03:33:20,664 - INFO - Processing completed successfully

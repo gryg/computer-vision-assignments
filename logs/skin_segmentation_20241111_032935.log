@@ -1,0 +1,39 @@
+2024-11-11 03:29:35,214 - INFO - Starting skin segmentation process...
+2024-11-11 03:29:35,215 - INFO - Found 12 images to process
+2024-11-11 03:29:35,215 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:29:37,047 - WARNING - No faces detected in image
+2024-11-11 03:29:38,085 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:29:38,086 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:29:40,481 - WARNING - No faces detected in image
+2024-11-11 03:29:41,629 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:29:41,630 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:29:41,703 - WARNING - No faces detected in image
+2024-11-11 03:29:42,268 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:29:42,268 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:29:42,281 - WARNING - No faces detected in image
+2024-11-11 03:29:42,741 - INFO - Successfully processed images.jpg
+2024-11-11 03:29:42,741 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:29:42,816 - WARNING - No faces detected in image
+2024-11-11 03:29:43,382 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:29:43,382 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:29:43,395 - WARNING - No faces detected in image
+2024-11-11 03:29:43,863 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:29:43,863 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:29:43,985 - WARNING - No faces detected in image
+2024-11-11 03:29:44,645 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:29:44,645 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:29:44,766 - WARNING - No faces detected in image
+2024-11-11 03:29:45,373 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:29:45,373 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:29:53,426 - WARNING - No faces detected in image
+2024-11-11 03:29:55,642 - INFO - Successfully processed pexels-alipazani.jpg
+2024-11-11 03:29:55,642 - INFO - Processing image 10/12: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:29:55,851 - WARNING - No faces detected in image
+2024-11-11 03:29:56,508 - INFO - Successfully processed Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:29:56,508 - INFO - Processing image 11/12: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:29:56,764 - WARNING - No faces detected in image
+2024-11-11 03:29:57,421 - INFO - Successfully processed ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:29:57,421 - INFO - Processing image 12/12: image-asset.jpeg
+2024-11-11 03:30:08,744 - WARNING - No faces detected in image
+2024-11-11 03:30:10,608 - INFO - Successfully processed image-asset.jpeg
+2024-11-11 03:30:10,612 - INFO - Processing completed successfully

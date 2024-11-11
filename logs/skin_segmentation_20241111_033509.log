@@ -1,0 +1,39 @@
+2024-11-11 03:35:09,446 - INFO - Starting skin segmentation process...
+2024-11-11 03:35:09,447 - INFO - Found 12 images to process
+2024-11-11 03:35:09,447 - INFO - Processing image 1/12: Cara-Delevingne.jpg
+2024-11-11 03:35:10,657 - INFO - Face detected - Area: 593543.0, Aspect ratio: 1.75, Eccentricity: 0.84
+2024-11-11 03:35:11,649 - INFO - Successfully processed Cara-Delevingne.jpg
+2024-11-11 03:35:11,649 - INFO - Processing image 2/12: CEOportrait_0101.jpg
+2024-11-11 03:35:14,008 - INFO - Face detected - Area: 900786.0, Aspect ratio: 1.37, Eccentricity: 0.68
+2024-11-11 03:35:15,389 - INFO - Successfully processed CEOportrait_0101.jpg
+2024-11-11 03:35:15,390 - INFO - Processing image 3/12: fdsjbfyq2h331.jpg
+2024-11-11 03:35:15,492 - INFO - Face detected - Area: 115933.0, Aspect ratio: 1.37, Eccentricity: 0.78
+2024-11-11 03:35:16,034 - INFO - Successfully processed fdsjbfyq2h331.jpg
+2024-11-11 03:35:16,034 - INFO - Processing image 4/12: images.jpg
+2024-11-11 03:35:16,050 - INFO - Face detected - Area: 34772.0, Aspect ratio: 1.50, Eccentricity: 0.67
+2024-11-11 03:35:16,507 - INFO - Successfully processed images.jpg
+2024-11-11 03:35:16,507 - INFO - Processing image 5/12: Iman.jpg
+2024-11-11 03:35:16,593 - INFO - Face detected - Area: 40408.0, Aspect ratio: 1.78, Eccentricity: 0.83
+2024-11-11 03:35:17,178 - INFO - Successfully processed Iman.jpg
+2024-11-11 03:35:17,178 - INFO - Processing image 6/12: Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:35:17,196 - INFO - Face detected - Area: 26317.0, Aspect ratio: 1.53, Eccentricity: 0.83
+2024-11-11 03:35:17,684 - INFO - Successfully processed Jeremy_Meeks_Mug_Shot.jpg
+2024-11-11 03:35:17,684 - INFO - Processing image 7/12: Karla-Sanka.jpg
+2024-11-11 03:35:17,804 - WARNING - No faces detected in image
+2024-11-11 03:35:18,452 - INFO - Successfully processed Karla-Sanka.jpg
+2024-11-11 03:35:18,452 - INFO - Processing image 8/12: NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:35:18,629 - INFO - Face detected - Area: 251321.0, Aspect ratio: 1.45, Eccentricity: 0.80
+2024-11-11 03:35:19,225 - INFO - Successfully processed NH-Portrait-Photographer-Modeling-Portfolio-Cover-Shot-for-Abby_0035-683x1024.jpg
+2024-11-11 03:35:19,225 - INFO - Processing image 9/12: pexels-alipazani.jpg
+2024-11-11 03:35:27,151 - INFO - Face detected - Area: 2624686.0, Aspect ratio: 0.96, Eccentricity: 0.70
+2024-11-11 03:35:29,194 - INFO - Successfully processed pexels-alipazani.jpg
+2024-11-11 03:35:29,194 - INFO - Processing image 10/12: Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:35:29,351 - WARNING - No faces detected in image
+2024-11-11 03:35:29,989 - INFO - Successfully processed Playboi-Carti-Celebrity-Mugshot.jpg
+2024-11-11 03:35:29,989 - INFO - Processing image 11/12: ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:35:30,328 - INFO - Face detected - Area: 761861.0, Aspect ratio: 1.00, Eccentricity: 0.48
+2024-11-11 03:35:31,006 - INFO - Successfully processed ugiVlatlrEnuh47fFYKF.jpg
+2024-11-11 03:35:31,006 - INFO - Processing image 12/12: image-asset.jpeg
+2024-11-11 03:35:40,776 - INFO - Face detected - Area: 2955936.0, Aspect ratio: 1.62, Eccentricity: 0.85
+2024-11-11 03:35:42,527 - INFO - Successfully processed image-asset.jpeg
+2024-11-11 03:35:42,533 - INFO - Processing completed successfully

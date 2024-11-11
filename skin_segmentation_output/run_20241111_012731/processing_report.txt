@@ -1,0 +1,161 @@
+Skin Segmentation Processing Report
+Generated: 20241111_012731
+==================================================
+
+Total images processed: 20
+Total faces detected: 16
+Average faces per image: 0.80
+
+Individual Image Results:
+------------------------------
+
+Image: 000_Adriana-Lima-Ocean-Drive-Magazine-March-2017-Cover-Photoshoot05
+Original path: input_images\Adriana-Lima-Ocean-Drive-Magazine-March-2017-Cover-Photoshoot05.jpg
+Faces detected: 0
+
+Image: 001_Adriana-Lima-Ocean-Drive-Magazine-March-2017-Cover-Photoshoot05
+Original path: input_images\Adriana-Lima-Ocean-Drive-Magazine-March-2017-Cover-Photoshoot05.jpg
+Faces detected: 0
+
+Image: 002_Cara-Delevingne
+Original path: input_images\Cara-Delevingne.jpg
+Faces detected: 0
+
+Image: 003_Cara-Delevingne
+Original path: input_images\Cara-Delevingne.jpg
+Faces detected: 0
+
+Image: 004_Cindy-Crawford
+Original path: input_images\Cindy-Crawford.jpg
+Faces detected: 2
+Face details:
+  Face 1:
+    Center: (331, 506)
+    Axes: (241, 204)
+    Angle: 20.26 degrees
+  Face 2:
+    Center: (233, 916)
+    Axes: (111, 83)
+    Angle: 25.66 degrees
+
+Image: 005_Cindy-Crawford
+Original path: input_images\Cindy-Crawford.jpg
+Faces detected: 2
+Face details:
+  Face 1:
+    Center: (331, 506)
+    Axes: (241, 204)
+    Angle: 20.26 degrees
+  Face 2:
+    Center: (233, 916)
+    Axes: (111, 83)
+    Angle: 25.66 degrees
+
+Image: 006_Gisele-Bundchen
+Original path: input_images\Gisele-Bundchen.jpg
+Faces detected: 0
+
+Image: 007_Gisele-Bundchen
+Original path: input_images\Gisele-Bundchen.jpg
+Faces detected: 0
+
+Image: 008_Iman
+Original path: input_images\Iman.jpg
+Faces detected: 0
+
+Image: 009_Iman
+Original path: input_images\Iman.jpg
+Faces detected: 0
+
+Image: 010_Karla-Sanka
+Original path: input_images\Karla-Sanka.jpg
+Faces detected: 0
+
+Image: 011_Karla-Sanka
+Original path: input_images\Karla-Sanka.jpg
+Faces detected: 0
+
+Image: 012_Linda-Evangelista
+Original path: input_images\Linda-Evangelista.jpg
+Faces detected: 1
+Face details:
+  Face 1:
+    Center: (435, 279)
+    Axes: (159, 124)
+    Angle: 42.60 degrees
+
+Image: 013_Linda-Evangelista
+Original path: input_images\Linda-Evangelista.jpg
+Faces detected: 1
+Face details:
+  Face 1:
+    Center: (435, 279)
+    Axes: (159, 124)
+    Angle: 42.60 degrees
+
+Image: 014_Naomi-campbell
+Original path: input_images\Naomi-campbell.jpg
+Faces detected: 0
+
+Image: 015_Naomi-campbell
+Original path: input_images\Naomi-campbell.jpg
+Faces detected: 0
+
+Image: 016_Tyra-banks-fab-magazine
+Original path: input_images\Tyra-banks-fab-magazine.jpg
+Faces detected: 0
+
+Image: 017_Tyra-banks-fab-magazine
+Original path: input_images\Tyra-banks-fab-magazine.jpg
+Faces detected: 0
+
+Image: 018_pexels-alipazani
+Original path: input_images\pexels-alipazani.jpg
+Faces detected: 5
+Face details:
+  Face 1:
+    Center: (424, 170)
+    Axes: (256, 231)
+    Angle: -50.68 degrees
+  Face 2:
+    Center: (2030, 182)
+    Axes: (306, 230)
+    Angle: 13.81 degrees
+  Face 3:
+    Center: (1346, 182)
+    Axes: (23, 17)
+    Angle: -72.36 degrees
+  Face 4:
+    Center: (709, 256)
+    Axes: (30, 24)
+    Angle: -15.98 degrees
+  Face 5:
+    Center: (1673, 512)
+    Axes: (85, 62)
+    Angle: -0.24 degrees
+
+Image: 019_pexels-alipazani
+Original path: input_images\pexels-alipazani.jpg
+Faces detected: 5
+Face details:
+  Face 1:
+    Center: (424, 170)
+    Axes: (256, 231)
+    Angle: -50.68 degrees
+  Face 2:
+    Center: (2030, 182)
+    Axes: (306, 230)
+    Angle: 13.81 degrees
+  Face 3:
+    Center: (1346, 182)
+    Axes: (23, 17)
+    Angle: -72.36 degrees
+  Face 4:
+    Center: (709, 256)
+    Axes: (30, 24)
+    Angle: -15.98 degrees
+  Face 5:
+    Center: (1673, 512)
+    Axes: (85, 62)
+    Angle: -0.24 degrees
+
